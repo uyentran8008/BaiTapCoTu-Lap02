@@ -1,0 +1,130 @@
+.head1234{
+    background-color:black;
+    color:aliceblue;
+}
+.colum1{
+    background-color:blue;
+    color:aliceblue;
+}
+.colum234{
+    background-color:darkcyan;
+    color:aliceblue
+}
+.intro{
+    background-color:rgb(177, 184, 184);
+    color: black;
+    font-size: 0.7cm;
+    text-align: center;
+    font-family: Courier;
+}
+
+.topic{
+    color:darkblue;
+    font-size:0.5cm
+    
+}
+.LastPost{
+    color :darkblue;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
+}
+
+.bg-blue{
+    color:darkblue;
+}
+.by{
+    font-family:monospace}
+
+#recipe-table tr:nth-child(odd)
+{
+    background-color: red;
+    color:aliceblue;
+}
+#recipe-table tr:nth-child(even){
+    background-color: rgb(251, 115, 115);
+    color:aliceblue;
+}
+.ingredients{
+     background-color: red;
+    color:aliceblue;
+}
+
+#table4{
+    font-family: 'Courier New', Courier, monospace;
+}
+.border-intro{
+    color:rgb(73, 133, 153)
+}
+.in-dam{
+    color:rgb(162, 211, 249)
+}
+
+.body{
+    font-family: 'Courier New', Courier, monospace;
+
+}
+#Main-menu{
+    background-color:#fb5151;
+	height:60px;
+    text-align: center;
+    size: 1.5em;
+    color:aliceblue;
+}
+
+#Header{
+    background-color:#3150ec;
+	height:90px;
+    text-align: center;
+    color: aliceblue;
+}
+
+#content{
+
+    background-color:#1fc822;
+	height:200px;
+    text-align: center;
+    color: aliceblue;
+    width: 80%;
+   
+}
+.content-footer{
+    display: flex;
+}
+
+#Side-Bar{
+    background-color:#0e780f;
+	height:200px;
+    text-align: center;
+    color: aliceblue;
+    width: 20%;
+   
+}
+
+#Footer{
+    margin-top: auto;
+    background-color:#8d7d10;
+	height:20px;
+    text-align: center;
+    color: aliceblue;
+    
+}
+.tem-layout{
+    display: flex;
+}
+.Templates{
+    background-color: yellow;
+    text-decoration: underline;
+    margin-right: 20px;
+    height: 400px;
+
+}
+.note{
+    margin-left: 20px;
+    background-color: palevioletred;
+    height: 150px;
+}
+
+.footer-2{
+    text-align: center;
+    background-color: rgb(228, 178, 206);
+}

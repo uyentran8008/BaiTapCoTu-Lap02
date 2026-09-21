@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>DỰNG LAYOUT CHO WEBSITE</title>
+    <<style>
+        /* CSS để hiện viền khung giống như hình minh họa */
+        table {
+            border-collapse: collapse; /* Gộp đường viền cho đẹp */
+            width: 100%;
+           
+            margin: 20px auto;
+        }
+
+        /* Đặt thuộc tính cho các ô trong bảng chính */
+        .main-table > tbody > tr > td {
+            border: 1px solid #333; 
+            vertical-align: top;    
+            padding: 15px;
+        }
+
+        
+        .col-left {
+            width: 30%;
+        }
+
+       
+        .col-right {
+            width: 70%;
+        }
+
+       
+        .table-2 {
+            width: 100%;
+
+            min-height: 200px;
+            text-align: center;
+        }
+    </style>
+</head>
+<body>
+
+   
+    <table class="main-table">
+        <tr>
+           
+            <td class="col-left">
+                <h3>Phần danh mục liên kết</h3>
+                <ol>
+                    <li>>Home Page</a></li>
+                    <li>>View the Catalog</a></li>
+                    <li>Place an Order</a></li>
+                </ol>
+            </td>
+
+            
+            <td class="col-right">
+                <table class="table-2">
+                    <tr>
+                        <td style="padding: 50px;">
+                            <h2>Bảng 2</h2>
+                        </td>
+                    </tr>
+                </table>
+            </td>
+        </tr>
+    </table>
+    
+</body>
+</html>
