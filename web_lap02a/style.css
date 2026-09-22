@@ -1,0 +1,19 @@
+h1,#aqua{
+    background-color: aquamarine;
+
+}
+p{
+    background-color: pink;
+     text-decoration: overline;
+     text-align: center;
+     color:saddlebrown;
+     text-indent: 25px;
+
+     
+
+
+}
+#yellow{
+    background-color: yellow;
+    border:2px solid red
+}
