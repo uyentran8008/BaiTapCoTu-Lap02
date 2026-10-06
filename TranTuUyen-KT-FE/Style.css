@@ -1,0 +1,136 @@
+.header-container{
+display: flex;
+      align-items: center; /* Căn giữa theo chiều dọc */
+      justify-content: space-between; 
+      padding: 10px 20px;
+}
+
+.fa-regular  {color: #0b74e5;
+      font-size: 13px;
+      font-weight: bold;
+      margin-right: 8px;
+      
+    }
+    .fa-solid.fa-rotate-right{
+      color: #0b74e5;
+      font-size: 13px;
+      font-weight: bold;
+      margin-right: 8px;
+    }
+    .fa-solid.fa-cube{
+      color: #0b74e5;
+      font-size: 13px;
+      font-weight: bold;
+      margin-right: 8px;
+    }
+    .fa-solid.fa-truck{
+      color: #0b74e5;
+      font-size: 13px;
+      font-weight: bold;
+      margin-right: 8px;
+    }
+    .fa-solid.fa-phone{
+      color: #0b74e5;
+      font-size: 13px;
+      font-weight: bold;
+      margin-right: 8px;
+    }
+    .fa-solid.fa-envelope{
+      color: #0b74e5;
+      font-size: 13px;
+      font-weight: bold;
+      margin-right: 8px;
+    }
+    .fa-regular.fa-circle-user{
+      color: #0b74e5;
+      font-size: 13px;
+      font-weight: bold;
+      margin-right: 8px;
+    }
+    .fa-solid.fa-tag{
+      color: #0b74e5;
+      font-size: 13px;
+      font-weight: bold;
+      margin-right: 8px;
+    }
+    .TIKI{
+      color: #0b74e5;
+      font-size: 50px;
+      font-weight: bold;
+      margin-right: 8px;
+    }
+    .totvanhanh{
+      color: #185494;
+      font-size: 20px;
+      font-weight: bold;
+      margin-right: 8px;
+
+    }
+    .search-button{
+      background-color: #0b74e5;
+      color: white;
+      border: none;
+      padding: 10px 20px;
+      cursor: pointer;
+    }
+    .search-input{
+      height: 25px;
+      width: 800px;
+    }
+    .nav-icons{
+      display: flex;
+      align-items: center;
+      width:auto;
+    }
+
+    .freeship-banner{
+      background-color: #20f38d;
+      padding: 10px 20px;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+
+}
+.category-list{
+  width: 200px;
+    border: 1px solid #ccc;
+    border-radius: 8px;
+    font-family: sans-serif;
+    list-style: none;
+    
+}
+.category-item{
+  padding: 10px;
+    border-bottom: 1px solid #ccc;
+    font-size: 14px;
+    font-weight: bold;
+    font-family: sans-serif;
+}
+.main-container{
+      display: flex;
+}
+.category-table{
+  background-color:#ccc
+}
+
+.main{
+      background-color: #f5f5f5;
+}
+.category-list{
+      background-color:rgb(255, 255, 255);
+}
+
+.main-content{
+      border: 1px solid #ccc;
+      border-radius: 8px;
+      height :55px;
+      background-color: white ;
+      width: 100%;
+    
+}
+.category-menu{
+      width: 1250px;
+      border: 1px solid #ccc;
+      border-radius: 8px;
+      background-color: white;
+}
